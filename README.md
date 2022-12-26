@@ -11,4 +11,4 @@
 
 # 📱 Devices
 ![Xiaomi 11 Pro](https://img.shields.io/badge/Xiaomi%2011%20Pro-ED9121?style=flat-square&logo=xiaomi&logoColor=ffffff)
-![WSA](https://img.shields.io/badge/Windows%20Subsystem%20For%20Android-00bbff?style=flat-square&logo=oneplus&logoColor=ffffff)
+![WSA](https://img.shields.io/badge/Windows%20Subsystem%20For%20Android%2013-00bbff?style=flat-square&logo=oneplus&logoColor=ffffff)
