@@ -7,8 +7,9 @@
 
 # 💻 Environment
 ![Windows](https://img.shields.io/badge/Windows%2011-00BBFF?style=flat-square&logo=Windows&logoColor=ffffff)
-![WSL2](https://img.shields.io/badge/WSL2%20Ubuntu%2022%2e04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
+![WSL2](https://img.shields.io/badge/WSL2%20Ubuntu%2022%2e10-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
 
 # 📱 Devices
 ![Xiaomi 11 Pro](https://img.shields.io/badge/Xiaomi%2011%20Pro-ED9121?style=flat-square&logo=xiaomi&logoColor=ffffff)
+![Xiaomi 13 Ultra](https://img.shields.io/badge/Xiaomi%2013%20Ultra-ED9121?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![WSA](https://img.shields.io/badge/Windows%20Subsystem%20For%20Android%2013-3ddc84?style=flat-square&logo=Android&logoColor=ffffff)
