@@ -6,7 +6,7 @@
 ![](https://count.getloli.com/get/@zjw2017?theme=gelbooru)
 
 # 💻 Environment
-![Windows](https://img.shields.io/badge/Windows%2011-00BBFF?style=flat-square&logo=Windows&logoColor=ffffff)
+![Windows](https://img.shields.io/badge/Windows%2011%20Pro%2023H2-00BBFF?style=flat-square&logo=Windows&logoColor=ffffff)
 ![WSL2](https://img.shields.io/badge/WSL2%20Ubuntu%2023%2e10-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
 
 # 📱 Devices
