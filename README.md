@@ -1,7 +1,7 @@
 # Hi there 👋 this is zjw2017
 
-![](https://github-readme-stats-raui5o0f2-zjw2017s-projects.vercel.app/api?username=zjw2017&show_icons=true&hide_border=true&include_all_commits=true&theme=transparent)
-![](https://github-readme-stats-raui5o0f2-zjw2017s-projects.vercel.app/api/top-langs/?username=zjw2017&layout=compact&langs_count=10&hide=Python&exclude_repo=Cemiuiler,action-tmate,Aquarius223-s-sdm845-kernel&theme=transparent)
+![](https://github-readme-stats.vercel.app/api?username=zjw2017&show_icons=true&hide_border=true&include_all_commits=true&theme=transparent)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zjw2017&layout=compact&langs_count=10&hide=Python&exclude_repo=Cemiuiler,action-tmate,Aquarius223-s-sdm845-kernel&theme=transparent)
 
 # Visitors
 
